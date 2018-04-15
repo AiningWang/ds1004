@@ -1,0 +1,19 @@
+aw3349
+*   6ca893a merge master and A
+|\  
+| *   c9556ad merge A and B
+| |\  
+| * | 5b3ccaf 2nd commit on A
+* | |   f56a521 merge master and B
+|\ \ \  
+| | |/  
+| |/|   
+| * |   a9d2653 merge B and C
+| |\ \  
+| | |/  
+| | * 5f392a0 1st commit on A
+* | | 44ce338 3rd commit on master
+|/ /  
+* | 2f33ad4 2nd commit on master
+|/  
+* d219064 1st commit on master

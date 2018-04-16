@@ -41,17 +41,23 @@ bl2514
 * 4d280dd Lab 7
 
 yt1353
-*   654e226 9th commit (4th on testing).
+*   3843cd0 merge
 |\  
-| * 8021f2d 7th commit (5th on master).
-| *   dd99ccb 6th commit (4th on master).
+| *   6c4357d merge
 | |\  
-| * | 08a605d 5th commit (3rd on master).
-* | | 47537d4 8th commit (3rd on testing).
+| * | fc8a8e1 merge
+* | |   460a9c2 merge
+|\ \ \  
+| | |/  
+| |/|   
+| * |   6a189f1 merge
+| |\ \  
+| | |/  
+| |/|   
+| * | 42977e9 1st commit on branch3
+* | | 8668dbc 1st commit on branch2
 | |/  
 |/|   
-* | 5535ce3 4th commit (2nd on testing).
+* | 8af2582 1st commit on branch1
 |/  
-* 077afaf 3rd commit (1st on testing).
-* 33ba908 2nd commit (2nd on master).
-* a2e07f6 1st commit
+* 4bfadb3 1st commit on master
